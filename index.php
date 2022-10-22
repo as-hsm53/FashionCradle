@@ -48,7 +48,7 @@ include(theme('header.php'));
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="box-info">
-                            <i class="fa fa-truck" aria-hidden="true"></i>
+                            <i class="fa fa-car" aria-hidden="true"></i>
                             <div class="content">
                                 <h4><?php echo $lumise->lang('Free Shipping'); ?></h4>
                                 <p><?php echo $lumise->lang('On all order over $250'); ?></p>
